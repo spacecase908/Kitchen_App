@@ -1,0 +1,16 @@
+DROP TABLE public.Favorites;
+DROP TABLE public.Has_Cooked;
+DROP TABLE public.Plan_contains;
+DROP TABLE public.List_to_Make;
+DROP TABLE public.ing_required;
+DROP TABLE public.list_contains;
+DROP TABLE public.app_required;
+DROP TABLE public.eqp_required;
+DROP TABLE public.Shopping_List;
+DROP TABLE public.Appliance;
+DROP TABLE public.Equipment;
+DROP TABLE public.Ingredient;
+DROP TABLE public.Storage;
+DROP TABLE public.Recipe;
+DROP TABLE public.Meal_Plan;
+DROP TABLE public.app_user;
